@@ -1,0 +1,5 @@
+open_clip_torch
+torchvision
+torch
+prettytable
+pandas
